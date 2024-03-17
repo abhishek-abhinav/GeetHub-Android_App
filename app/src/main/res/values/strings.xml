@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeetHub</string>
+    <string name="welcome">Welcome to the World of GEET! 🤗</string>
+    <string name="start_listening"><![CDATA[Start Listening>]]></string>
+    <string name="developed_by">Developed by Abhishek Abhinav</string>
+    <string name="geethub">GeetHub</string>
+    <string name="geethub_playlists">GeetHub Playlists</string>
+    <string name="hamburger">Hamburger</string>
+    <string name="playlist_banner">Playlist Banner</string>
+    <string name="back">Back button</string>
+    <string name="geetlists">GeetLists</string>
+    <string name="geethub_player">GeetHub Player</string>
+    <string name="next">next</string>
+    <string name="p" />
+    <string name="play">play</string>
+</resources>
